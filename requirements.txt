@@ -1,0 +1,5 @@
+evadb
+opencv-python
+eva-decord
+openai
+
